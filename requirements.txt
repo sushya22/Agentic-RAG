@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+scikit-learn
+pytest
+transformers>=4.0.0
+sentence-transformers
+faiss-cpu

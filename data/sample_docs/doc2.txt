@@ -1,0 +1,1 @@
+Retrieval Augmented Generation (RAG) augments model responses with retrieved documents to ground answers and improve factuality.

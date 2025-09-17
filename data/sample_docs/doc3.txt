@@ -1,0 +1,1 @@
+Tools allow an agent to compute, search files, or call external services. A planner decides when to call which tool.
